@@ -12,4 +12,4 @@ Please make sure to update tests as appropriate.
 
 ## Demo
 
-[coming soon...]()
+[coming soon...](http://mehmedx7.pythonanywhere.com/reporting)
