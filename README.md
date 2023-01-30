@@ -12,4 +12,4 @@ Please make sure to update tests as appropriate.
 
 ## Demo
 
-[coming soon...](http://mehmedx7.pythonanywhere.com/reporting)
+[Click to Show](http://mehmedx7.pythonanywhere.com/reporting)
